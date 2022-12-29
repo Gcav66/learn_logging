@@ -38,7 +38,7 @@ jobs:
       # Train Model
       - name: Train Model
         run: |
-          python run_model.py
+          python run_ml.py
           
       # Test Model
       - name: Test Model
