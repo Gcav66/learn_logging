@@ -1,6 +1,7 @@
 ipython
 numpy
 pandas
+matplotlib
 flask
-molotov
 pytest
+tensorflow
