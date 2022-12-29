@@ -8,7 +8,7 @@ on:
     branches:
       - main
       
-env:
+# env:
   # CSV_URL: "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
   # TARGET_VAR: "quality"
   # ALPHA: 0.9
