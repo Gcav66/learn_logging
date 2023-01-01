@@ -7,6 +7,7 @@ def test_string():
 def test_fails():
     assert False
 
+# Hard to spot the difference?
 def test_list():
     assert ['a', 'very', 'long', 'list', 'of', 'items'] == [
         'a', 'very', 'long', 'list', 'items']
